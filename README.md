@@ -5,13 +5,13 @@ It supports features such as login, user authentication and authorization, and a
 You can perform functions such as liking pictures, uploading an image or posting a thought, adding and removing people from your friends list, etc.
 
 
-##Login Page
+## Login Page
 <img width="675" alt="image" src="https://github.com/heenamir/VibeHub_social_media/assets/97759804/73ab7102-1c62-410e-b81d-d2d4d3bff0a5">
 
 
-##Signup page
+## Signup page
 <img width="619" alt="image" src="https://github.com/heenamir/VibeHub_social_media/assets/97759804/38d86ab5-0483-4061-9009-9158c3d3fe76">
 
 
-##Home page
+## Home page
 <img width="910" alt="image" src="https://github.com/heenamir/VibeHub_social_media/assets/97759804/0a879940-e482-4b7f-b428-1092a341b0a6">
